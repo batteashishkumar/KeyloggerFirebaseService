@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716454790220",
+    "firebase_url": "https://keyloggerfirebaseservice.firebaseio.com",
+    "project_id": "keyloggerfirebaseservice",
+    "storage_bucket": "keyloggerfirebaseservice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716454790220:android:223a7aa0ee56445926e0e9",
+        "android_client_info": {
+          "package_name": "com.ashish.keyloggerfirebaseservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716454790220-d591e8pelv7cpaa62dg9rp3au3jakcb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashish.keyloggerfirebaseservice",
+            "certificate_hash": "74b541938dc906c6cfc5b3c6e06e958941ff5f28"
+          }
+        },
+        {
+          "client_id": "716454790220-t8pv6hh6klfm5r1pqdito0d8kj7l0n0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfPtWDpCe3juefAURpxLixTDtecHS1xpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716454790220-t8pv6hh6klfm5r1pqdito0d8kj7l0n0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
